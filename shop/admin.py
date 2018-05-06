@@ -4,8 +4,6 @@ from decimal import *
 from django.contrib import admin
 from . import models
 
-
-
 admin.site.site_header = "Coretabs Online Shop Administration"
 admin.site.site_title = "Coretabs Online Shop Administration"
 admin.site.index_title = ""
